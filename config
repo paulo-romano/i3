@@ -198,4 +198,5 @@ bar {
 }
 
 #Startup apps
+exec --no-startup-id numlockx on
 exec --no-startup-id insync start
