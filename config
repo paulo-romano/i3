@@ -185,9 +185,9 @@ bar {
     position top
     tray_output none
     colors {
-        separator  $i_ws_bg
-        background $i_ws_bg
-        statusline $i_ws_fg
+        #separator  $i_ws_bg
+        #background $i_ws_bg
+        #statusline $i_ws_fg
 
         # colorclass        border   bg       text
         #focused_workspace   $f_ws_bg $f_ws_bg $f_ws_fg
